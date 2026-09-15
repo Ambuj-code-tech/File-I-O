@@ -1,0 +1,20 @@
+# Compiled C build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Common build directories
+build/
+bin/
+Debug/
+Release/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
